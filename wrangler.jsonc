@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "saints-day-clinica-sobre",
+  "compatibility_date": "2026-05-26",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "Site-Saints - Sobre"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
